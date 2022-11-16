@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- ⚡ Fun fact **I'm right behind you**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/toxicsodapop76ym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="toxicsodapop76ym" height="30" width="40" /></a>
