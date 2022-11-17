@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ToxicSodapop</h1>
-<h3 align="center">A guy who knows nothing on what they're doing.</h3>
+<h3 align="center">Developer with no imagination.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicsodapop&label=Profile%20views&color=0e75b6&style=flat" alt="toxicsodapop" /> </p>
 
